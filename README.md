@@ -167,8 +167,6 @@ To deploy and run on the Khoury Linux cluster (e.g., `linux-079.khoury.northeast
 
 ## Contributors
 
-*   **Samyak Shah**
-*   **Mahip Parekh**
+*   **Dhruv Kansara**
 
----
-*CS 6650: Building Scalable Distributed Systems | December 2025*
+
